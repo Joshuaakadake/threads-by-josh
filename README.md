@@ -3,7 +3,7 @@
 A modern, responsive e-commerce website for Threads by Josh - a Kenyan sustainable thrift store offering curated vintage fashion with nationwide delivery.
 
 ## 🌐 Live Website
-https://github.com/Joshuaakadake/threads-by-josh.git
+https://joshuaakadake.github.io/threads-by-josh/
 
 ## ✨ Features
 - Responsive design for all devices
